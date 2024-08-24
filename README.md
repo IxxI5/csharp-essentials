@@ -7,7 +7,7 @@ Author: IxxI5
 This repository offers a fresh and engaging approach to mastering the essentials of C# programming. By using small, simulated real-world examples, it makes learning both intuitive and practical. Whether you're a beginner just starting out or an advanced user looking to deepen your understanding, this method is designed to keep you engaged. The idea is simple: the more you practice, the more you retain. In the end, mastering programming comes down to three things—practice, practice, and practice. This hands-on approach ensures that learning is not only easier but also more enjoyable and effective for everyone.
 ## Prerequisites
 
--VS2022 is installed
+- VS2022 is installed
 
 ### Instructions
 
